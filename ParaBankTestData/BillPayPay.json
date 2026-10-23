@@ -1,0 +1,11 @@
+{
+    "PayeeName":"Ram",
+    "Address": "Tulsa OK",
+    "City":"Bangalore",
+    "State":"Karnataka",
+    "ZipCode": "12234",
+    "Phonenum": "6789654326",
+    "AccNum": "2443"  ,
+    "VerfiyAcc": "2443" ,
+    "Amount":50
+}

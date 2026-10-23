@@ -1,0 +1,16 @@
+{
+"ValidLogin": [
+    {
+      "url": "https://parabank.parasoft.com/parabank/index.htm",
+      "username": "Pavithra",
+      "password": "test@123"
+    }
+  ],
+  "InValidLogin": [
+    {
+      "url": "https://parabank.parasoft.com/parabank/index.htm",
+      "username": "4234",
+      "password": "fs34@123"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+
+1. What is html
+2. difference between html element and html tags
+
+An HTML element is the complete building block of a webpage, consisting of an opening tag, the content, and a closing tag. In contrast, an HTML tag is just the individual marker (like <p> or </p>) used to signal where an element begins and ends.
+
+3. what is element selector
+
+The CSS element selector selects all elements with the specified element name.
+
+This selector can be name spaced when using @namespace.
+
+ns|p - selects <p> elements in namespace ns
+*|p - selects all <p> elements
+|p - selects all <p> elements without any namespace declared
+
+
+4. what is JavaScript and JavaScript engine. explain the features of js engine.
+JavaScript is a high-level, versatile programming language that powers interactivity on the web, while a JavaScript engine is the specialized program or software component that actually reads and executes that JavaScript code.
+
+Think of JavaScript as the sheet music, and the JavaScript engine as the musician who reads the music and plays the instrument.
+
+5. what is tokens.
+6. what is interactivity and dynamicity
+In JavaScript, interactivity means responding to user actions like clicks or typing, while dynamicity means changing a web page's content or structure on the fly without reloading the page.
+
+7. what is web browser
+8. what is URL
+A URL (Uniform Resource Locator) is the unique address of a specific page, file, or resource on the internet. 
+
+9. what is increment operator
+The JavaScript increment operator (++) is a shorthand arithmetic operator used to increase the value of a variable by exactly one.
+types; pre and post.
+
+10. what is internet.
+11. what is client
+12. what is http and https.
+13. Difference between tags i and em.
+14. what is the purpose of DOCTYPE in HTML.
+15. what is attributes
+16. what is tag selector in CSS
+17. what is a programming language.
+
+A programming language is a formal, engineered set of instructions and grammatical rules used by humans to communicate with computers and develop software. It acts as a bridge between human logic and the binary code (1s and 0s) that computer hardware naturally execute.
+
+18. What are the features of JavaScript.
+19. what is the difference between programming language and scripting language.
+20. Will JavaScript directly able to communicate with the browser.
+
+Yes, JavaScript directly communicates with the browser through built-in programming interfaces called Web APIs
+
+21. Does JavaScript need compiler.
+
+No, JavaScript does not need a traditional standalone compiler because it is designed to run directly inside environments like web browsers or Node.js.
+
+22. what is synchronous programming language.
+The engine will never log "Step 3" before "Step 2" completes. If "Step 2" involved a massive computational task that took 10 seconds, the entire program would freeze for 10 seconds before moving to "Step 3"
+
+23. what are the different types of applications are there.
+24. History of html.
+25. what is html tag.
+<html>: The root tag that contains all other elements on the page.
+
+26. what is container tag.
+Container Tags: These come in pairs (opening and closing) and wrap around content, like headings or paragraphs.
+
+27. what are identifiers and is also called as what??
+Identifiers in JavaScript are simply called names.
+
+28. what is operators in JavaScript.
+29. what is simple selector in CSS
+30. what is a web page.
+31. what is == and ===
+32.waht is difference between b tag and strong tag.
+33. what is iframe.
+
+an HTML element used to embed another document or webpage inside your current web page. It essentially acts as a window that displays external content from another source without requiring the user to leave your site.
+
+34. what is tag selector in css.
+

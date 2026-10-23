@@ -1,0 +1,16 @@
+What is type coercion in JavaScript?
+What is the difference between null, undefined, and an undeclared variable?
+What is NaN? What does typeof NaN return?
+How do you check whether a value is NaN?
+What is the difference between Number, String, and Boolean objects and their primitive values?
+What happens when you assign an object to another variable?
+Are JavaScript variables statically typed or dynamically typed?
+
+What is the difference between pass-by-value and pass-by-reference in JavaScript?
+Why does const allow modification of an object?
+What is block scope?
+What is function scope?
+How would you determine whether a variable contains an array?
+How would you determine the data type of a variable reliably?
+What are the different ways to define a function?
+What is the difference between a function declaration and a function expression?
